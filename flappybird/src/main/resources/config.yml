@@ -1,0 +1,7 @@
+# Game
+announce-score: true
+announce-score-text: "{player} Reached a score of {score} in Flappy Bird"
+
+# Pipe
+pipe-speed: 0.1
+pipe-openening-size: 2
